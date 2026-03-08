@@ -1,0 +1,7 @@
+# Mod metadata file
+modLoader="javafml"
+loaderVersion="[35,)"
+license="MIT"
+[[mods]]
+modId="pokphone"
+version="${file.jarVersion}"
